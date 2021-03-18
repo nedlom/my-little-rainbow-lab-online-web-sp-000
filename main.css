@@ -19,3 +19,18 @@ div {
 #yellow { /* this selects any elements with the red id */
   border-top-color: #ff0;
 }
+#green { /* this selects any elements with the red id */
+  border-top-color: #f00;
+}
+
+#blue { /* this selects any elements with the red id */
+  border-top-color: #00f;
+  
+}
+#indigo { /* this selects any elements with the red id */
+  border-top-color: #f00;
+}
+
+#violet { /* this selects any elements with the red id */
+  border-top-color: #f00;
+}
